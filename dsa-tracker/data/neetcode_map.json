@@ -1,0 +1,41 @@
+{
+  "arrays_hashing": [
+    "contains_duplicate",
+    "valid_anagram",
+    "two_sum",
+    "group_anagrams",
+    "top_k_frequent_elements",
+    "product_of_array_except_self"
+  ],
+  "two_pointers": [
+    "valid_palindrome",
+    "two_sum_ii",
+    "3sum",
+    "container_with_most_water"
+  ],
+  "sliding_window": [
+    "best_time_to_buy_and_sell_stock",
+    "longest_substring_without_repeating_characters",
+    "longest_repeating_character_replacement",
+    "minimum_window_substring"
+  ],
+  "stack": [
+    "valid_parentheses",
+    "min_stack",
+    "evaluate_reverse_polish_notation",
+    "daily_temperatures"
+  ],
+  "binary_search": [
+    "binary_search",
+    "search_a_2d_matrix",
+    "koko_eating_bananas",
+    "find_minimum_in_rotated_sorted_array"
+  ],
+  "linked_list": [
+    "reverse_linked_list",
+    "merge_two_sorted_lists",
+    "linked_list_cycle",
+    "reorder_list",
+    "remove_nth_node_from_end_of_list"
+  ]
+}

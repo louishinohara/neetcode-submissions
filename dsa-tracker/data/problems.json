@@ -1,0 +1,15 @@
+[
+  {
+    "id": "contains_duplicate",
+    "title": "Contains Duplicate",
+    "topic": "arrays",
+    "pattern": ["hashing"],
+    "difficulty": "easy",
+    "neetcode": true,
+    "status": "done",
+    "attempts": 1,
+    "last_reviewed": "2026-04-29",
+    "notes_path": "problems/arrays/contains_duplicate/notes.md",
+    "solution_path": "problems/arrays/contains_duplicate/solution.py"
+  }
+]
