@@ -4,5 +4,17 @@
     "id": "contains_duplicate",
     "status": "done",
     "attempt": 1
+  },
+  {
+    "date": "2026-04-30",
+    "id": "binary_search",
+    "status": "in-progress",
+    "attempt": 1
+  },
+  {
+    "date": "2026-05-02",
+    "id": "binary_search",
+    "status": "done",
+    "attempt": 2
   }
 ]

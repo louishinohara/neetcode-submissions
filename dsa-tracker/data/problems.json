@@ -11,5 +11,18 @@
     "last_reviewed": "2026-04-29",
     "notes_path": "problems/arrays/contains_duplicate/notes.md",
     "solution_path": "problems/arrays/contains_duplicate/solution.py"
+  },
+  {
+    "id": "binary_search",
+    "title": "Binary Search",
+    "topic": "binary_search",
+    "pattern": ["binary search"],
+    "difficulty": "easy",
+    "neetcode": true,
+    "status": "done",
+    "attempts": 2,
+    "last_reviewed": "2026-05-02",
+    "notes_path": "problems/binary_search/binary_search/notes.md",
+    "solution_path": "problems/binary_search/binary_search/solution.py"
   }
 ]
